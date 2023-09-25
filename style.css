@@ -1,3 +1,22 @@
+header {
+  background-color: #78D6C6;
+  text-align: center;
+  padding: 20px;
+}
 body{
-    font-family: 'Just Me Again Down Here';
+  background-color: #12486B;
+  color: #F5FCCD;
+  font-family: Roboto;
+}
+footer {
+  background-color: #419197;
+  padding: 20px;
+}
+
+aside {
+  padding: 20px;
+}
+
+article {
+  padding: 20px;
 }
